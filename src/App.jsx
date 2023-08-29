@@ -19,9 +19,9 @@ function App() {
       {/* <UseContext/> */}
       {/* <UseEffect/> */}
       {/* <UseReducer/> */}
-      {/* <AddTodo/> */}
+      <AddTodo/>
       {/* <Count_Text/> */}
-      <CountTime/>
+      {/* <CountTime/> */}
     </>
   )
 }
